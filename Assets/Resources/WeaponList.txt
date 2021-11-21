@@ -1,0 +1,13 @@
+Sword Sword0 실버소드 13 30 3 1
+Sword Sword1 가드워리어 33 70 3 1
+Sword Sword2 솔도로스 45 100 3 1
+Sword Sword3 별운검 80 180 3 1
+Sword Sword4 에고소드 150 350 3 1
+Wand Wand0 상급지팡이 25 40 7 2
+Wand Wand1 딘호크모트 85 150 7 2
+Wand Wand2 현자의지팡이 180 320 7 2
+Hammer Hammer0 모닝스타 30 70 1.5 3
+Hammer Hammer1 철퇴 50 110 1.5 3
+Hammer Hammer2 미스릴테인 75 170 2 3
+Hammer Hammer3 헤라클레스 150 320 2 3
+Hammer Hammer4 토르의망치 210 450 2 3
